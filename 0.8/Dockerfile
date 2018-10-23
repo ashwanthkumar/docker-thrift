@@ -1,5 +1,5 @@
 FROM debian:wheezy
-MAINTAINER Ashwanth Kumar
+MAINTAINER Ashwanth Kumar <ashwanth@ashwanthkumar.in>
 
 ENV THRIFT_VERSION 0.8.0
 
